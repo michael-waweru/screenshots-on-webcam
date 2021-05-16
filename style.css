@@ -1,0 +1,33 @@
+.click-buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;    
+}
+
+button{
+    background-color: cadetblue;
+    color: #fff;
+    margin: 2px;
+    padding: 1rem;
+    border-radius: 5px;    
+    cursor: pointer;    
+}
+
+video{
+    width: 525px;
+    height: 480px;    
+    margin: 3rem auto;
+    display: block;
+}
+
+#screenshot{
+    display: flex;
+    justify-content: center;
+}
+
+#screenshot img{
+    max-width: 100%;
+    width: 15rem;
+    margin-right: 1.5rem;
+    border-radius: 4px;
+}
